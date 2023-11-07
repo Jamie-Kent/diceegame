@@ -13,5 +13,5 @@ This is the main page which will host my index.html, other projects will be nest
 
 ## Author
 
-- Website - [Jamie Kent](https://www.jamiekent.me)
+- Website - [Jamie Kent]([https://www.jamiekent.me](https://jamie-kent.github.io/))
 - Frontend Mentor - [@Jamie-Kent](https://www.frontendmentor.io/profile/Jamie-Kent)
