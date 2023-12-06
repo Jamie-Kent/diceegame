@@ -1,4 +1,4 @@
-# jamiekent.me - Main website
+# jamiekent.me - Dicce game
 
 ## Table of contents
 
@@ -8,7 +8,9 @@
 
 ## Overview
 
-This is the main page which will host my index.html, other projects will be nested within this URL
+The Javascript within this task was created as part of Section 17 in the following course
+
+Course: Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
 
 
 ## Author
