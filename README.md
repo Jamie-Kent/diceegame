@@ -17,5 +17,5 @@ Course: Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javas
 
 ## Author
 
-- Website - [Jamie Kent](https://jamie-kent.github.io/)
+- Link to Live website - [Jamie Kent](https://jamie-kent.github.io/)
 - Frontend Mentor - [@Jamie-Kent](https://www.frontendmentor.io/profile/Jamie-Kent)
