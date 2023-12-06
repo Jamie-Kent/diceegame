@@ -1,4 +1,4 @@
-# jamiekent.me - Dicce game
+# Dicee Game
 
 ## Table of contents
 
